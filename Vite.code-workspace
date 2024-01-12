@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Vite",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}

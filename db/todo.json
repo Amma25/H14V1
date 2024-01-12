@@ -1,0 +1,47 @@
+{
+  "todos": [
+    {
+      "todo": "Watch a drama m",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "todo": "Solve a Rubik's cube",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "todo": "Learn CSS",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "todo": "Learn vite js",
+      "id": 9
+    },
+    {
+      "todo": "Learn Data structure",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "todo": "Homework 14",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "todo": "",
+      "completed": false,
+      "user": 1,
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "name": "andy"
+    },
+    {
+      "name": "bobby"
+    }
+  ]
+}
